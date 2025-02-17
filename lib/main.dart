@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_2/widgets/home_page.dart';
-import 'widgets/bunny_appbar.dart';
 
 void main() {
   runApp(const MyApp());
@@ -12,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Bunny Search SearchBar Demo',
+        title: 'Assignment 1',
         theme: ThemeData(
           primarySwatch: Colors.grey,
         ),

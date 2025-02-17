@@ -1,5 +1,4 @@
 # Assignment 1
 
 ## Video Recording:
-
-![til](./VIDEO_RECORDING.gif){ .image25percent }
+<img src="./VIDEO_RECORDING" width=50% height=50%>
